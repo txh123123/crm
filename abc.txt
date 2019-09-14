@@ -1,4 +1,8 @@
 gi从的撒
 
+<<<<<<< HEAD
 
 d e:\temp\crm \\程序B
+=======
+//程序A
+>>>>>>> d5594a529e58ce2c69b5d2acc9c6bb8a595502d6
